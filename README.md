@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```js
+const Dvsteven = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, Python, Php, Javascript, C#],
+  tools: [React, Node, Vue],
+   challenge: "Currently i am stududying Vue 3 and C#"
+}
+```
+
 <!--
 **Dvsteven/Dvsteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
