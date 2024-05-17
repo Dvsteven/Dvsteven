@@ -1,19 +1,16 @@
-### Hi there 👋
-
+### Hi there 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 ```js
 const Dvsteven = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Python, Php, Javascript, C#],
-  tools: [React, Node, Vue],
+  tools: [React, Node, Vue, Django],
+  Database: [MySQL, SQLServer, MongoDB, SQLite],
    challenge: "Currently i am stududying Vue 3 and C#"
 }
 ```
 
 <!--
-**Dvsteven/Dvsteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+✨ ✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
