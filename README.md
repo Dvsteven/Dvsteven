@@ -1,5 +1,8 @@
 ### Hi there 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 ```js
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 const Dvsteven = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Python, Php, Javascript, C#],
