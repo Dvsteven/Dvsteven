@@ -1,6 +1,6 @@
 ### Hi there 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+software+developer;Proud+OCM+Coworker;Fastest+Biker;and+a+cat+lover)](https://git.io/typing-svg)
 
 ```js
 const Dvsteven = {
